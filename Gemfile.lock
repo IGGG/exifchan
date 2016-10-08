@@ -30,6 +30,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   exifr
@@ -39,4 +40,4 @@ DEPENDENCIES
   sinatra
 
 BUNDLED WITH
-   1.11.2
+   1.13.2
